@@ -1,0 +1,15 @@
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#02 I: Start test public:1:assign_exp.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#02 I: Test public:1:assign_exp is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#02 I: End test public:1:assign_exp.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#02 I: Start test public:8:ifelse.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#02 I: Test public:8:ifelse is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#02 I: End test public:8:ifelse.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#02 I: Start test public:10:less.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#02 I: Test public:10:less is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#02 I: End test public:10:less.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#02 I: Start test public:16:test1.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#02 I: Test public:16:test1 is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#02 I: End test public:16:test1.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#02 I: Start test public:20:test_assoc1.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#02 I: Test public:20:test_assoc1 is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#02 I: End test public:20:test_assoc1.

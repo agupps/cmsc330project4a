@@ -1,0 +1,18 @@
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: Start test public:2:define1.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: Test public:2:define1 is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: End test public:2:define1.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: Start test public:5:exp2.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: Test public:5:exp2 is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: End test public:5:exp2.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: Start test public:9:if_else_while.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: Test public:9:if_else_while is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: End test public:9:if_else_while.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: Start test public:14:nested_while.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: Test public:14:nested_while is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: End test public:14:nested_while.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: Start test public:19:test4.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: Test public:19:test4 is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: End test public:19:test4.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: Start test public:21:while.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: Test public:21:while is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#03 I: End test public:21:while.

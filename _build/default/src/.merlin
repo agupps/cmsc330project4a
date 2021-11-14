@@ -1,0 +1,6 @@
+EXCLUDE_QUERY_DIR
+B /home/agupta21/.opam/4.07.0/lib/ocaml
+B ../_build/default/src/.p4a.objs/byte
+S /home/agupta21/.opam/4.07.0/lib/ocaml
+S .
+FLG -open P4a -w -40

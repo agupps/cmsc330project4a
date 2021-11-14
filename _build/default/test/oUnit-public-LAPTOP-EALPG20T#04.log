@@ -1,0 +1,18 @@
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: Start test public:3:equal.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: Test public:3:equal is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: End test public:3:equal.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: Start test public:7:if.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: Test public:7:if is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: End test public:7:if.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: Start test public:12:nested_if.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: Test public:12:nested_if is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: End test public:12:nested_if.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: Start test public:15:print.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: Test public:15:print is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: End test public:15:print.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: Start test public:18:test3.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: Test public:18:test3 is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: End test public:18:test3.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: Start test public:22:for.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: Test public:22:for is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#04 I: End test public:22:for.

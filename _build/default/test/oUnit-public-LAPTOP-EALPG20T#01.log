@@ -1,0 +1,18 @@
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: Start test public:0:assign1.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: Test public:0:assign1 is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: End test public:0:assign1.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: Start test public:4:exp1.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: Test public:4:exp1 is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: End test public:4:exp1.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: Start test public:6:greater.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: Test public:6:greater is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: End test public:6:greater.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: Start test public:11:main.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: Test public:11:main is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: End test public:11:main.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: Start test public:13:nested_ifelse.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: Test public:13:nested_ifelse is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: End test public:13:nested_ifelse.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: Start test public:17:test2.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: Test public:17:test2 is successful.
+2020-04-27T00:03:19+00:00 LAPTOP-EALPG20T#01 I: End test public:17:test2.
